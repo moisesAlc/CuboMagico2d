@@ -1,0 +1,26 @@
+#cores{
+    margin-left: 30vw;
+}
+
+.cor{
+    width : 100px;
+    height : 100px;
+}
+#corAmarela{
+    background-color: #ffff00ff;
+}
+#corBranca{
+    background-color: white;
+}
+#corVerde{
+    background-color: #37c837ff;
+}
+#corVermelha{
+    background-color: #ff0000ff;
+}
+#corLaranja{
+    background-color: #ff6600ff;
+}
+#corAzul{
+    background-color: #0000ffff;
+}
