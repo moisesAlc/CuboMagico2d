@@ -5,6 +5,7 @@
 .cor{
     width : 100px;
     height : 100px;
+    cursor: pointer;
 }
 #corAmarela{
     background-color: #ffff00ff;

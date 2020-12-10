@@ -178,7 +178,7 @@
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.0810256;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.52142861;paint-order:stroke markers fill" />
       <rect
          style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.18132496;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.52142861;paint-order:stroke markers fill"
-         id="rect1403"
+         id="amarelo1"
          width="76.324829"
          height="79.619415"
          x="-132.12798"
@@ -401,6 +401,11 @@
         document.getElementById("amarelo").onclick = function(){
             console.log("Clicou no amarelo");
             console.log(corAtual);
+        }
+        document.getElementById("amarelo1").onclick = function(){
+            console.log("Clicou no amarelo1");
+            console.log(corAtual);
+            document.getElementById("amarelo1").style.fill = corAtual;
         }
         escolheCor = function(cor){
             
