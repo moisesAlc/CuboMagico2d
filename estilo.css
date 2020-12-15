@@ -1,27 +1,53 @@
-#cores{
-    margin-left: 30vw;
+body{
+    background-color: #BBB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Chilanka', cursive;
 }
-
+h1{
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: -175px;
+}
 .cor{
     width : 100px;
     height : 100px;
     cursor: pointer;
+    border: solid 15px black;
+    margin: 5px;
 }
 #corAmarela{
     background-color: #ffff00ff;
+    
 }
 #corBranca{
     background-color: white;
+    transform: translateY(-180px);
 }
 #corVerde{
     background-color: #37c837ff;
 }
 #corVermelha{
     background-color: #ff0000ff;
+    transform: translateY(-180px);
 }
 #corLaranja{
     background-color: #ff6600ff;
+    transform: translateY(-80px);
 }
 #corAzul{
     background-color: #0000ffff;
+    transform: translateY(-80px);
+}
+svg{
+    /*background-color: aqua;*/
+    margin-bottom: -90px;
+    /*width: 30%vw;*/
+}
+#faceTopo{
+    /*transform-origin: center;*/
+}
+input{
+    border-radius: 50%;
 }

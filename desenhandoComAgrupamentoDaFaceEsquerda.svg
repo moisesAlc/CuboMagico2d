@@ -13,7 +13,7 @@
    version="1.1"
    id="svg1760"
    inkscape:version="1.0.1 (1.0.1+r75)"
-   sodipodi:docname="desenhando1.svg">
+   sodipodi:docname="desenhandoComAgrupamentoDaFaceEsquerda.svg">
   <defs
      id="defs1754">
     <filter
@@ -37,9 +37,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="262.25906"
-     inkscape:cy="442.05079"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="290.15905"
+     inkscape:cy="754.39244"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -252,95 +252,98 @@
        y="290.20346"
        ry="2.945482"
        transform="matrix(0.8660254,-0.50000001,0,1,0,0)" />
-    <rect
-       style="opacity:0.999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.56826;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
-       id="rect1421"
-       width="108.1581"
-       height="99.020088"
-       x="20.296444"
-       y="95.479584"
-       ry="5.1217299"
-       transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
-    <rect
-       ry="2.945482"
-       y="99.075096"
-       x="24.229601"
-       height="28.47299"
-       width="31.517323"
-       id="laranja1"
-       style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
-       transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
-    <rect
-       style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
-       id="laranja2"
-       width="31.517323"
-       height="28.47299"
-       x="59.243073"
-       y="99.075096"
-       ry="2.945482"
-       transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
-    <rect
-       ry="2.945482"
-       y="99.075096"
-       x="93.601059"
-       height="28.47299"
-       width="31.517323"
-       id="laranja3"
-       style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
-       transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
-    <rect
-       style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
-       id="laranja4"
-       width="31.517323"
-       height="28.47299"
-       x="24.229601"
-       y="130.57585"
-       ry="2.945482"
-       transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
-    <rect
-       ry="2.945482"
-       y="130.57585"
-       x="59.243073"
-       height="28.47299"
-       width="31.517323"
-       id="laranja5"
-       style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
-       transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
-    <rect
-       style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
-       id="laranja6"
-       width="31.517323"
-       height="28.47299"
-       x="93.601059"
-       y="130.57585"
-       ry="2.945482"
-       transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
-    <rect
-       ry="2.945482"
-       y="161.88736"
-       x="24.011086"
-       height="28.47299"
-       width="31.517323"
-       id="laranja7"
-       style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
-       transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
-    <rect
-       style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
-       id="laranja8"
-       width="31.517323"
-       height="28.47299"
-       x="59.024559"
-       y="161.88736"
-       ry="2.945482"
-       transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
-    <rect
-       ry="2.945482"
-       y="161.88736"
-       x="93.382545"
-       height="28.47299"
-       width="31.517323"
-       id="laranja9"
-       style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
-       transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
+    <g
+       id="faceEsquerda">
+      <rect
+         style="opacity:0.999;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.56826;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
+         id="rect1421"
+         width="108.1581"
+         height="99.020088"
+         x="20.296444"
+         y="95.479584"
+         ry="5.1217299"
+         transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
+      <rect
+         ry="2.945482"
+         y="99.075096"
+         x="24.229601"
+         height="28.47299"
+         width="31.517323"
+         id="laranja1"
+         style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
+         transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
+      <rect
+         style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
+         id="laranja2"
+         width="31.517323"
+         height="28.47299"
+         x="59.243073"
+         y="99.075096"
+         ry="2.945482"
+         transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
+      <rect
+         ry="2.945482"
+         y="99.075096"
+         x="93.601059"
+         height="28.47299"
+         width="31.517323"
+         id="laranja3"
+         style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
+         transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
+      <rect
+         style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
+         id="laranja4"
+         width="31.517323"
+         height="28.47299"
+         x="24.229601"
+         y="130.57585"
+         ry="2.945482"
+         transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
+      <rect
+         ry="2.945482"
+         y="130.57585"
+         x="59.243073"
+         height="28.47299"
+         width="31.517323"
+         id="laranja5"
+         style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
+         transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
+      <rect
+         style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
+         id="laranja6"
+         width="31.517323"
+         height="28.47299"
+         x="93.601059"
+         y="130.57585"
+         ry="2.945482"
+         transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
+      <rect
+         ry="2.945482"
+         y="161.88736"
+         x="24.011086"
+         height="28.47299"
+         width="31.517323"
+         id="laranja7"
+         style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
+         transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
+      <rect
+         style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
+         id="laranja8"
+         width="31.517323"
+         height="28.47299"
+         x="59.024559"
+         y="161.88736"
+         ry="2.945482"
+         transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
+      <rect
+         ry="2.945482"
+         y="161.88736"
+         x="93.382545"
+         height="28.47299"
+         width="31.517323"
+         id="laranja9"
+         style="opacity:0.999;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.453959;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.521429;paint-order:stroke markers fill"
+         transform="matrix(0.8660254,0.50000001,0,1,0,0)" />
+    </g>
   </g>
 </svg>
